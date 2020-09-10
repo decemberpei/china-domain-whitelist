@@ -105,7 +105,7 @@
 *.bible.com
 *.bilibili.com
 *.bilivideo.com
-*.bing.com
+;  *.bing.com
 *.bitbucket.org
 *.bluedoc.io
 *.bootcss.com
