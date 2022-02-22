@@ -339,8 +339,8 @@
 *.mi.com
 *.miaopai.com
 *.microbit.org
-*.microsoft.com
-*.microsoftonline.com
+; *.microsoft.com
+; *.microsoftonline.com
 *.minapp.com
 *.miui.com
 *.miwifi.com
