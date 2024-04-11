@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2022/08/09
+; Update Date: 2024/02/29
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -22,6 +22,7 @@
 *.114la.com
 *.114yygh.com
 *.115.com
+*.123pan.com
 *.126.com
 *.126.net
 *.127.net
@@ -57,6 +58,7 @@
 *.3dmgame.com
 *.4399.com
 *.51.la
+*.51.net
 *.5173.com
 *.5173cdn.com
 *.51cto.com
@@ -106,6 +108,7 @@
 *.akarin.top
 *.aldwx.com
 *.aliapp.org
+*.alibaba-inc.com
 *.alibaba.com
 *.alibabacloud.com
 *.alibabausercontent.com
@@ -121,6 +124,7 @@
 *.aliyun.com
 *.aliyuncs.com
 *.aliyundrive.com
+*.aliyunpds.com
 *.allhistory.com
 *.alltuu.com
 *.amap.com
@@ -153,6 +157,7 @@
 *.augix.me
 *.autonavi.com
 *.awesome-hd.me
+*.axhub.im
 *.axshare.com
 *.axure.org
 *.axureux.com
@@ -188,6 +193,7 @@
 *.beisen.com
 *.beitaichufang.com
 *.bejson.com
+*.bendibao.com
 *.bible.com
 *.biliapi.com
 *.biliapi.net
@@ -214,10 +220,12 @@
 *.bumimi.com
 *.bybbs.org
 *.bytecdntp.com
+*.ca001.com
 *.cachemoment.com
 *.cailianpress.com
 *.caiyunapp.com
 *.camera360.com
+*.ccb.com
 *.ccgslb.com
 *.ccgslb.net
 *.cctv.com
@@ -233,6 +241,7 @@
 *.cdntip.com
 *.cdog.me
 *.ceair.com
+*.cebbank.com
 *.cee.network
 *.chainnews.com
 *.chaoxing.com
@@ -251,6 +260,7 @@
 *.chunyu.mobi
 *.chunyuanfood.com
 *.ciligod.com
+*.citicbank.com
 *.classix-unlimited.co.uk
 *.cli.im
 *.clouddn.com
@@ -275,7 +285,6 @@
 *.coolpad.com
 *.cootekservice.com
 *.cowtransfer.com
-*.craft.do
 *.csair.com
 *.csdn.net
 *.css-js.com
@@ -283,12 +292,14 @@
 *.css.network
 *.ct10000.com
 *.ctrip.com
+*.cupfox.app
 *.d7vg.com
 *.damengxiang.me
 *.dandanplay.com
 *.dangdang.com
 *.daocloud.io
 *.datagrand.com
+*.dbankcdn.com
 *.ddos.cc
 *.ddrk.me
 *.deepin.com
@@ -343,6 +354,9 @@
 *.dytt8.net
 *.easou.com
 *.eastmoney.com
+*.ecitic.com
+*.edifier.com
+*.eebbk.com
 *.eeboard.com
 *.eggjs.org
 *.ele.me
@@ -359,12 +373,15 @@
 *.fang.com
 *.fatetypo.xyz
 *.feiliao.com
+*.feishucdn.com
 *.feng.com
 *.fengkongcloud.com
 *.fengniao.com
+*.ffalcon.com
 *.figma.cool
 *.figmachina.com
 *.figmacn.com
+*.fiio.com
 *.fir.im
 *.firefox.com
 *.fjgdwl.com
@@ -375,6 +392,7 @@
 *.flyertea.com
 *.fontke.com
 *.foundertype.com
+*.foxirj.com
 *.frdic.com
 *.freebuf.com
 *.freeziti.com
@@ -416,6 +434,7 @@
 *.hao123.com
 *.haosou.com
 *.happyeo.com
+*.harmonyos.com
 *.hasee.com
 *.hdb.com
 *.hdbits.org
@@ -570,6 +589,7 @@
 *.kuaishou.com
 *.kuaizhan.com
 *.kugou.com
+*.kujiale.com
 *.kunlunaq.com
 *.kunlunar.com
 *.kunlunca.com
@@ -590,6 +610,7 @@
 *.kunlunta.com
 *.kunlunvi.com
 *.kunlunwe.com
+*.kyoceraconnect.com
 *.lackar.com
 *.lagou.com
 *.lanhuapp.com
@@ -616,7 +637,6 @@
 *.lifan.ooo
 *.likefont.com
 *.lilithgames.com
-*.linkedin.com
 *.linuxidc.com
 *.livechina.com
 *.liyin.date
@@ -632,6 +652,7 @@
 *.lolinet.com
 *.longzhu.com
 *.lucifr.com
+*.ludashi.com
 *.luogu.org
 *.luojilab.com
 *.luoo.net
@@ -694,12 +715,14 @@
 *.moe123.net
 *.moegirl.org
 *.moetransit.com
+*.mojidoc.com
 *.moke.com
 *.mokeedev.com
 *.momentcdn.com
 *.momoyu.cc
 *.moonvy.com
 *.morethan.tv
+*.motiff.com
 *.mozilla.org
 *.mp4ba.cc
 *.msftconnecttest.com
@@ -718,6 +741,7 @@
 *.myqcloud.com
 *.myzaker.com
 *.mzstatic.com
+*.naixue.com
 *.nanyangpt.com
 *.nature.com
 *.ncore.cc
@@ -742,6 +766,7 @@
 *.nyato.com
 *.obsapp.com
 *.oekaki.so
+*.office.net
 *.office365.com
 *.okii.com
 *.omico.me
@@ -756,6 +781,7 @@
 *.oracle.com
 *.oray.com
 *.oray.net
+*.orayimg.com
 *.oschina.io
 *.oschina.net
 *.ourbits.club
@@ -763,13 +789,11 @@
 *.ourdvsss.com
 *.oursketch.com
 *.outlook.com
+*.pag.art
 *.paipai.com
 *.panda.tv
 *.panduoduo.net
 *.passthepopcorn.me
-*.paypal.com
-*.paypal.me
-*.paypalobjects.com
 *.pc6.com
 *.pcbeta.com
 *.pdcicons.ml
@@ -780,6 +804,7 @@
 *.phonegap100.com
 *.phpcomposer.com
 *.piaoquantv.com
+*.pingan.com
 *.pingwest.com
 *.planetmeican.com
 *.plex.tv
@@ -791,6 +816,7 @@
 *.pptv.com
 *.privatehd.to
 *.processon.com
+*.psbc.com
 *.psnine.com
 *.pstatp.com
 *.pterclub.com
@@ -828,12 +854,15 @@
 *.qqurl.com
 *.qqzzz.net
 *.quanmingjiexi.com
+*.qudong.com
 *.qunar.com
+*.qweather.com
 *.qyer.com
 *.qyerstatic.com
 *.rapoo.com
 *.rarbg.to
 *.raychase.net
+*.realme.com
 *.redacted.ch
 *.renren.com
 *.renrenche.com
@@ -871,10 +900,12 @@
 *.servicewechat.com
 *.sf-express.com
 *.shejijia.com
+*.shidianguji.com
 *.shikezhi.com
 *.shimo.im
 *.shiyanlou.com
 *.shssp.org
+*.shxibank.com
 *.shyywz.com
 *.sigmaaldrich.com
 *.sigujiexi.com
@@ -905,6 +936,7 @@
 *.songshuhui.net
 *.soso.com
 *.soufun.com
+*.sourcegcdn.com
 *.speedtest.net
 *.springer.com
 *.springerlink.com
@@ -922,15 +954,15 @@
 *.subhd.tv
 *.sui.com
 *.suning.com
-*.supabase.io
 *.surface.wiki
-*.svga.io
 *.sznews.com
 *.t.tt
 *.taichi.graphics
 *.taihe.com
 *.takungpao.com
 *.talkingdata.com
+*.tangdou.com
+*.tangdouddn.com
 *.tanx.com
 *.taobao.com
 *.taobao.org
@@ -938,7 +970,9 @@
 *.tapdb.net
 *.tapimg.com
 *.taptap.com
+*.tbcache.com
 *.tcdn.qq.com
+*.tcl.com
 *.teambition.com
 *.teamviewer.com
 *.tencent-cloud.com
@@ -961,12 +995,14 @@
 *.tjupt.org
 *.tmall.com
 *.tmall.hk
+*.todesk.com
 *.tool.lu
 *.tophub.today
 *.totheglory.im
 *.toushibao.com
 *.toutiao.com
 *.toutiao.io
+*.toutiaoimg.com
 *.tower.im
 *.trontv.com
 *.truevue.org
@@ -1050,6 +1086,7 @@
 *.windowsupdate.com
 *.windowsupdate.microsoft.com
 *.wisenjoy.com
+*.wjx.top
 *.wodemo.com
 *.wolai.com
 *.woozooo.com
@@ -1065,6 +1102,8 @@
 *.xiachufang.com
 *.xiami.com
 *.xiami.net
+*.xiaoe-tech.com
+*.xiaoe-tools.com
 *.xiaohongshu.com
 *.xiaoka.tv
 *.xiaomark.com
@@ -1081,6 +1120,7 @@
 *.xitu.io
 *.xiya.vip
 *.xldns.net
+*.xmac.app
 *.xmcdn.com
 *.xnpic.com
 *.xpcha.com
@@ -1124,6 +1164,7 @@
 *.yuwantech.com
 *.yxt.com
 *.yy.com
+*.z-bank.com
 *.zaih.com
 *.zanata.org
 *.zanmeishi.com
@@ -1146,6 +1187,7 @@
 *.zhongguose.com
 *.zhuihd.com
 *.zhujike.com
+*.zijieapi.com
 *.zimuzu.tv
 *.zku.net
 *.znyj365.com
